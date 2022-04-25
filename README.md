@@ -41,7 +41,7 @@ Ou: download do arquivo testeFernanda.xlsx
 - Texto Cinza: #989898;
 - Borda: #9E9E9E;
 - Azul Destaque Planilha: #353b50;
-- Azul Fundo Planilha: ##292f42
+- Azul Fundo Planilha: #292f42
 
 ## Layout
 
