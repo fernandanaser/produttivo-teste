@@ -4,13 +4,21 @@ Projeto desenvolvido para teste de estágio da Produttivo.
 
 ## O projeto
 - [Relatório fotográfico](https://fernandanaser.github.io/produttivo-teste/)
+
   Ou:
-  Download dos arquivos index.html
-                        logo.jfif
-                        styles.css
+
+  Download dos arquivos 
+
+      index.html
+                            
+      logo.jfif
+
+      styles.css
+
   Abrir index.html                      
 
 - [Planilha Dashboard](https://docs.google.com/spreadsheets/d/1v2UC4ENvA3P5juAL9hKC6Irici2GMmJrQVlozrfZg-A/edit?usp=sharing)
+
 Ou: download do arquivo testeFernanda.xlsx
 
 ### Estrutura de arquivos
@@ -37,5 +45,5 @@ Ou: download do arquivo testeFernanda.xlsx
 
 ## Layout
 
-- [Relatório](layoutRelatorio.jpg);
-- [Dashboard](layoutDashboard.jpg);
+- [Relatório](./layouts/layoutRelatorio.jpg);
+- [Dashboard](./layouts/layoutDashboard.jpg);
