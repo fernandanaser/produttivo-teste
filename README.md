@@ -3,6 +3,8 @@
 Projeto desenvolvido para teste de estágio da Produttivo.
 
 ## O projeto
+
+Relatório Fotográfico Link:
 - [Relatório fotográfico](https://fernandanaser.github.io/produttivo-teste/)
 
   Ou:
@@ -15,7 +17,9 @@ Projeto desenvolvido para teste de estágio da Produttivo.
 
       styles.css
 
-  Abrir index.html                      
+  Abrir index.html
+  
+Planilha Dashboard Link:
 
 - [Planilha Dashboard](https://docs.google.com/spreadsheets/d/1v2UC4ENvA3P5juAL9hKC6Irici2GMmJrQVlozrfZg-A/edit?usp=sharing)
 
