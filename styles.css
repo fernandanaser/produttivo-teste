@@ -1,0 +1,133 @@
+body {
+	width: 60vw;
+	margin: auto;
+	font-family: 'Arial', sans-serif;
+}
+
+.topo-page {
+	display: flex;
+	justify-content: space-between;
+	padding-top: 30px;
+}
+
+.cabecalho {
+	display: flex;
+	flex-direction: column;
+}
+
+.titulo {
+	font-size: 22px;
+	margin-bottom: 0px;
+	font-weight: bold;
+	color: #343434;
+}
+
+.subtitulo {
+	font-size : 18px;
+	color: #51A424;
+	margin-bottom: 15px;
+	line-height: 1px;
+}
+
+hr {
+	width: 100%;
+}
+
+.nr {
+	font-size : 18px;
+	color: #51A424;
+	font-weight: bold;
+	
+}
+
+h2 {
+	text-align: center;
+	font-size : 18px;
+	color: #989898 ;
+	padding: 15px 15px;
+}
+
+.imagens {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 60px;
+	color: #9E9E9E;
+	font-size: 15px;
+}
+
+.imagem-borda {
+	background: #FFFFFF;
+    border: 1px solid #9E9E9E;
+	display: inline-block;	
+	vertical-align: top;
+	padding: 10px;
+}
+
+.imagem {
+	width: 350px;
+	height: 250px;
+	background-color: #D0D2D2;
+	border: 1px solid #9E9E9E;
+}
+
+.quadro {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin-bottom: 60px;
+}
+
+table {
+  border-collapse: collapse;
+  border: 1px solid #9E9E9E;
+  width: 100%;
+  padding: 5px;
+}
+
+.informacoes {
+	background: #51A424;
+	text-align: center;	
+	font-size: 16px;
+}
+
+.informacoes td {
+	padding: 6px 6px !important;
+	color: #FFFFFF !important;
+}
+
+.tabela, th, td {
+	padding: 15px 15px;
+	color: #343434;
+}
+
+.mapa td {
+	padding: 0;
+	margin: 0;
+
+}
+
+.rodape {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 60px;
+}
+
+.produttivo {
+	color: #51A424;
+	font-size : 18px;
+	font-weight: bold;
+	padding: 20px 0 12px 0;
+}
+
+.endereco {
+	color:#343434;
+	font-size: 14px;
+	padding-top: 20px;
+}
+
+.logo{
+	width: 50px;
+	padding: 20px 5px;
+}
+
+	
