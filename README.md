@@ -1,7 +1,3 @@
-# Teste Produttivo
-
-Projeto desenvolvido para teste de estágio da Produttivo.
-
 ## O projeto
 
 Relatório Fotográfico Link:
